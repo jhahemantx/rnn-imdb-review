@@ -9,14 +9,6 @@ This project is an IMDB movie review sentiment analysis application using an RNN
 - Provides real-time predictions via a **Streamlit** web app.
 - Displays sentiment prediction along with a confidence score.
 
-## Project Structure
-```
-|-- rnn_imdb_sentiment
-    |-- models/                 # Directory for storing trained models
-    |-- app.py                  # Streamlit web app for sentiment analysis
-    |-- README.md               # Project documentation
-    |-- requirements.txt        # Dependencies required for the project
-```
 
 ## Installation
 To set up the environment, install the required dependencies:
